@@ -1,8 +1,8 @@
-## OpenGLSkeletonProject
+# OpenGLSkeletonProject
 
 这是我的计算机图形学课程利用OpenGL实现人体动作模拟的作业。
 
-# 开发环境：Microsoft Visual Studio 2010
+## 开发环境：Microsoft Visual Studio 2010
 
 1. 自行在网上下载GLUT工具包，并解压。
 2. 将工具包中的头文件“gl.h”、“glu.h”、“glut.h”和“glaux.h”放到目录C:\Program Files\Microsoft SDKs\Windows\v7.0A\Include\gl下（开发环境vs2010安装于C盘下）。
